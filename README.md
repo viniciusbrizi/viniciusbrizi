@@ -1,4 +1,5 @@
 
+
 Hi, i am Vinicius Brizi 🙋‍♂️!!! <br>
 🚀 Front-End Developer | 📊 Data Analysis and Systems Development Student
   - <img src= "https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html-logo"/>  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css-logo"/>
@@ -14,13 +15,15 @@ Hi, i am Vinicius Brizi 🙋‍♂️!!! <br>
 Conect with-me:
 
 <a href="https://www.instagram.com/vinicius_brizi/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width= "110" heigth="110" >
+    -<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width= "110" heigth="110" >
 </a>
-<a href="https://www.instagram.com/vinicius_brizi/">
-    <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit" width= "80" heigth="80">
+<a href="https://www.linkedin.com/in/vinicius-brizi-293515265/">
+    -<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width= "100" heigth="100">
 </a>
-
+  <br>
   <br>
   
 [![Vinicius Brizi stats](https://github-readme-stats.vercel.app/api?username=viniciusbrizi)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbrizi)](https://github.com/anuraghazra/github-readme-stats)
